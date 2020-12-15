@@ -2,6 +2,9 @@
 
 This project created a results processor for a personality test known as the Keirsey Temperament Sorter. The program prompts the user for the name of an input file containing the personality test results and the name of an output file in which to write the processed results. The program then writes the processed results to the output file.
 
+The user may enter in the file names like this:
+![Sample console output](https://github.com/leeway64/Personality-Test-Results-Processor/blob/main/Examples/Sample%20Console%20Output.jpg)
+
 The input file is in the format as shown:
 ![Sample input file](https://github.com/leeway64/Personality-Test-Results-Processor/blob/main/Examples/Sample%20Input%20File.jpg)
 
