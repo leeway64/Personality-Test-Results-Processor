@@ -7,15 +7,17 @@ The input file is in the format as shown:
 
 Each test response (A or B) corresponds to one dimension of someone's personality. These dimensions are:
 
-• Extrovert versus Introvert (E vs I): what energizes you
+"• Extrovert versus Introvert (E vs I): what energizes you
 
 • Sensation versus iNtuition (S vs N): what you focus on
 
 • Thinking versus Feeling (T vs F): how you interpret what you focus on
 
-• Judging versus Perceiving (J vs P): how you approach life
+• Judging versus Perceiving (J vs P): how you approach life"
 
-The final 4 personality results correspond to 1 letter for each dimension.
+(from the original assignment specifications)
+
+The final 4 personality results in the output file correspond to 1 letter for each dimension.
 
 The output file should be in this format:
 ![Sample output file](https://github.com/leeway64/Personality-Test-Results-Processor/blob/main/Examples/Sample%20Output%20File.jpg)
